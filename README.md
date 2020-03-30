@@ -10,3 +10,6 @@ inside HTML file
 
 usage:
 GSheetArys
+
+https://gsheet-demo.glitch.me
+https://docs.google.com/spreadsheets/d/e/2PACX-1vSrQiEKgWx_4d1zD6PsUvXSqrkB1y1vnTeea7saxTRzTFLLtGiqK8GZQQZD9_t6suEgmhzlbqnmlQ3y/pubhtml
